@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IvanAtInstea
 - 👀 I’m interested in IT Project management and scrum
 - 🌱 I’m currently learning agile processes in corporate world where the team is geoprahically split on three different continents
-- 💞️ I’m looking to collaborate on FranklinCovey effectivness 
+- 💞️ I’m looking to collaborate on FranklinCovey effectivness topics
 - 📫 How to reach me ivan.duris@instea.sk
