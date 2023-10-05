@@ -2,4 +2,4 @@
 - 👀 I’m interested in IT Product and Project management 
 - 🌱 I’m currently working in logistics business domain on 2 projects where the team is geoprahically split on three different continents
 - 💞️ I’m looking to collaborate on FranklinCovey effectivness topics
-- 📫 How to reach me duris.ivan@gmail.com
+- 📫 How to reach me ivan.duris@instea.sk
