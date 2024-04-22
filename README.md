@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IvanAtInstea
 - 👀 I’m interested in IT Product and Project management 
-- 🌱 I’m currently working in logistics business domain on 2 projects where the team is geoprahically split on three different continents
-- 💞️ I’m looking to collaborate on FranklinCovey effectivness topics
+- 🌱 I’m currently working in the logistics business domain on 2 projects where the team is geographically split on three different continents
 - 📫 How to reach me ivan.duris@instea.sk
